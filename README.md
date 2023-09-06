@@ -20,7 +20,7 @@ Now, you might be wondering why I've shared this story here, without turning it 
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/y9axSjglIXE/default.jpg)](https://youtu.be/y9axSjglIXE)
 
-## Prize Distribution
+## Runners Up
 
 ![Winners Award](https://github.com/nivethsaran/mark-up-game/blob/main/GameJamTitans.jpeg)
 
