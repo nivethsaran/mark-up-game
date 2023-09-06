@@ -2,13 +2,13 @@
  It's a game built on second chances and high school vibes. We lost the source code, but we have the game itself and this should be up here just for the vibes. Presenting to you --> MarkUp, a Money Heist (not the Netflix series) themed game.
 
 ## Story
-Mindbox India conducted a game design competition, the theme being Money. We decided to participate, but we knew nothing about the game development. All we knew as high school students way back in 2017, was some basic Java and SQL Programming. So, we decided to go with a UI Based Game Development tool. 
+Mindbox India hosted a game design competition centered around the theme of "Money." Intrigued by the challenge, our group decided to partake, despite our limited background in game development. As mere high school students, our knowledge in programming extended to basic Java and SQL skills, a remnant of our experiences back in 2017. In light of our novice status, we opted for GameMaker Studio (https://gamemaker.io/en), a user-friendly UI-based game development tool.
 
-We chose GameMaker Studio(https://gamemaker.io/en). It has almost everything we needed to develop, but us being entirely new to game design, we had to start somewhere. We tried building and designing levels and did a decent job. But soon, we realized that we had just one more evening to complete the entire game that we had planned. Until now we had done everything in our computer lab. So we transferred it to a laptop and started working on it back at home together, the 4 of us. We almost lost hope as to what we could end up building, but Chirag surprised us the next day with a completed game. 
+Choosing GameMaker Studio was our initial step towards bridging the knowledge gap. As newcomers to the world of game design, we embarked on the ambitious task of building and designing game levels. Although we made decent progress, we soon faced a daunting realization - a single evening was all that remained to complete our entire game. Until that point, we had meticulously worked within the confines of our school's computer lab. However, necessity forced us to transfer our project to a laptop and collaborate at one of our homes. As the hours ticked away, we teetered on the brink of despair. To our surprise and relief, Chirag emerged the following day with a fully realized game.
 
-Now, the competition started and the judges started judging. We got rejected in the first round. We were completely distraught, but we sat together made some minor changes, and asked the judges if we could try again. We didn't do much again, just a few minor bug fixes. The judges agreed and eventually, we ended up being the runner-ups. 
+The competition officially commenced, and the judges began their evaluations. The outcome of the first round dealt us a heavy blow - rejection. We were disheartened but not defeated. We regrouped, making minor adjustments, and approached the judges with a humble request for a second chance. Our subsequent efforts were focused on addressing minor bugs, nothing too extravagant. To our astonishment, the judges granted our plea, and we ultimately secured the position of runner-up.
 
-Now, you might be wondering why I've shared this story here, without turning it into a lengthy blog post. Well, the truth is, we felt an incredible sense of achievement as high school students, becoming runner-ups despite having zero experience in game development. But the bigger reason for sharing it is the hope that it might inspire someone else to seize their second chances and savor the moments of unexpected success. Sometimes, it's about the journey, the growth, and the sheer joy of defying expectations.
+Now, you might wonder why we've chosen this platform to share our story rather than crafting a detailed blog post. The reason is twofold. Firstly, as college students, we relished the sense of accomplishment derived from becoming runner-ups, despite our complete lack of prior game development experience. Secondly, we aspire to inspire others to grasp their second opportunities and revel in unexpected victories. Sometimes, it's about the journey, the personal growth, and the sheer elation of surpassing one's own expectations.
 
 ## Team
 
@@ -20,8 +20,11 @@ Now, you might be wondering why I've shared this story here, without turning it 
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/y9axSjglIXE/default.jpg)](https://youtu.be/y9axSjglIXE)
 
+
 ## Runners Up
 
 ![Winners Award](https://github.com/nivethsaran/mark-up-game/blob/main/GameJamTitans.jpeg)
 
 From the left towards right -> Aushwath -> Chirag -> Niveth -> Arshad -> Judge/CEO of a Game Company
+
+Oh, and in case you were wondering, we called ourselves Crash Test Gamers 😝
