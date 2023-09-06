@@ -3,3 +3,6 @@
 
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/y9axSjglIXE/default.jpg)](https://youtu.be/y9axSjglIXE)
+
+## Story
+![Winners Award](https://github.com/nivethsaran/mark-up-game/blob/main/GameJamTitans.jpeg)
