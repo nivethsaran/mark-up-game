@@ -36,5 +36,5 @@ Oh, and in case you were wondering, we called ourselves Crash Test Gamers 😝
 [Link 2](https://www.facebook.com/photo/?fbid=875576372572372&set=pcb.875581925905150) \
 [Link 3](https://www.facebook.com/DesignChampionship/photos/a.1018951278183322/1092719624139820/) \
 [Link 4](https://www.facebook.com/GameJamTitans/photos/a.742557175807650/1176402832423080/) \
-[Other Photos](https://github.com/nivethsaran/mark-up-game/photos)
+[Other Photos](https://github.com/nivethsaran/mark-up-game/tree/main/photos)
 
